@@ -1,7 +1,3 @@
 {
-  "backford": [
-    {
-      "backford": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/backford/wallpaper.png"
-    }
-  ]
- }
+  "backgroundUrl": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/backford/wallpaper.png"
+}
