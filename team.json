@@ -133,20 +133,7 @@
       "name": "Елизавета Бирюкова",
       "description": "Озвучка Кли"
     },
-    {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/22.png",
-      "link": "https://t.me/Iuselinuxarchbtw",
-      "boosty": "https://boosty.to/vadim_x_dima",
-      "name": "Vadim",
-      "description": "Разработка логики лаунчера"
-    },
-    {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/24.png",
-      "link": "https://t.me/Miles_Tristitilae",
-      "boosty": "?",
-      "name": "Серый",
-      "description": "Поддержка проекта"
-    },
+    
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/25.jpg",
       "link": "https://t.me/kira_kiriru",
@@ -167,6 +154,13 @@
       "boosty": "https://boosty.to/vadim_x_dima",
       "name": "Симба",
       "description": "Моральная поддержка на протяжении всей разработки лаунчера."
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/24.png",
+      "link": "https://t.me/Miles_Tristitilae",
+      "boosty": "?",
+      "name": "Серый",
+      "description": "Поддержка проекта"
     }
   ]
 }
