@@ -22,6 +22,20 @@
       "description": "Лидер Freedub Studio, звукорежиссер, озвучка Люмин и Фурины"
     },
     {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/22.png",
+      "link": "https://t.me/Iuselinuxarchbtw",
+      "boosty": "https://boosty.to/vadim_x_dima",
+      "name": "Vadim",
+      "description": "Разработка логики лаунчера"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/23.png",
+      "link": "https://t.me/KraneOnCraneTwink",
+      "boosty": "https://boosty.to/vadim_x_dima",
+      "name": "Дима",
+      "description": "Разработка дизайна лаунчера"
+    },
+    {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/4.jpg",
       "link": "https://t.me/freedubstudio",
       "boosty": "https://t.me/freedubstudio",
@@ -127,13 +141,6 @@
       "description": "Разработка логики лаунчера"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/23.png",
-      "link": "https://t.me/KraneOnCraneTwink",
-      "boosty": "https://boosty.to/vadim_x_dima",
-      "name": "Дима",
-      "description": "Разработка дизайна лаунчера"
-    },
-    {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/24.png",
       "link": "https://t.me/Miles_Tristitilae",
       "boosty": "?",
@@ -153,6 +160,13 @@
       "boosty": "https://boosty.to/savayaka/donate",
       "name": "DARNI",
       "description": "Озвучка Странника"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/27.png",
+      "link": "https://t.me/Iuselinuxarchbtw",
+      "boosty": "https://boosty.to/vadim_x_dima",
+      "name": "Симба",
+      "description": "Моральная поддержка на протяжении всей разработки лаунчера."
     }
   ]
 }
