@@ -14,7 +14,7 @@
   {
     "id": "char_03",
     "name": "Арлекино",
-    "photo": "https://raw.githubusercontent.com/CreepaDev/UniversalVA/main/Voice/CharastersVl/Arlechino.jpg",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Arlechino.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
   },
   {
@@ -106,12 +106,6 @@
     "name": "Райден",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Raiden.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
-  },
-  {
-    "id": "char_19",
-    "name": "Лучник",
-    "photo": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/images/archer.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
   },
   {
     "id": "char_20",
