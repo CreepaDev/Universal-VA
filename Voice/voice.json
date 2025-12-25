@@ -1,31 +1,31 @@
 [
   {
     "id": "char_01",
-    "name": "Альбедо",
+    "name": "Альбедо DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Albedo.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
   },
   {
     "id": "char_02",
-    "name": "Эмбер",
+    "name": "Эмбер DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Amber.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
   },
   {
     "id": "char_03",
-    "name": "Арлекино",
+    "name": "Арлекино DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Arlechino.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/VoiceMP3WAV/ACIDO.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/VoiceMP3WAV/ACIO.mp3"
   },
   {
     "id": "char_04",
     "name": "Беннет",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Bennet.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4f1d3ed15d911688.wav"
   },
   {
     "id": "char_05",
-    "name": "Бэй Доу",
+    "name": "Бэй Доу DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/BeyDou.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
   },
@@ -33,29 +33,29 @@
     "id": "char_06",
     "name": "Дилюк",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Diluc.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/2c2ac1b327807d64.wav"
   },
   {
     "id": "char_07",
     "name": "Фишль",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Fishl.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/7c019b1581c5d280.wav"
   },
   {
     "id": "char_08",
     "name": "Флинс",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Flins.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Flins_Hello.ogg.wav"
   },
   {
     "id": "char_09",
     "name": "Фурина",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Furina.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4c48eec259d39163.wav"
   },
   {
     "id": "char_10",
-    "name": "Гань Юй",
+    "name": "Гань Юй DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/GanYui.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
   },
@@ -63,11 +63,11 @@
     "id": "char_11",
     "name": "Аль Хайтам",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Haitan.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/3aaeb026581573f2.wav"
   },
   {
     "id": "char_12",
-    "name": "Итэр",
+    "name": "Итэр DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Iter.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
   },
@@ -75,17 +75,17 @@
     "id": "char_13",
     "name": "Кадзуха",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Kazuha.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/584ac3c90c1f30bc.wav"
   },
   {
     "id": "char_14",
     "name": "Кли",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Klee.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/443fa847a89e99ec.wav"
   },
   {
     "id": "char_15",
-    "name": "Люмин",
+    "name": "Люмин DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Lumin.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
   },
@@ -93,23 +93,23 @@
     "id": "char_16",
     "name": "Мона",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Mona.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Mona_Hello%20(1).ogg.wav"
   },
   {
     "id": "char_17",
     "name": "Нёвиллет",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Neuvillet.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://github.com/CreepaDev/Universal-VA/blob/main/Voice/WAW/3080849c9a1ad58a.wav"
   },
   {
     "id": "char_18",
     "name": "Райден",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Raiden.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Raiden_Shogun_Hello.wav"
   },
   {
     "id": "char_20",
-    "name": "Сетос",
+    "name": "Сетос DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Setos.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
   },
@@ -117,12 +117,12 @@
     "id": "char_21",
     "name": "Сайно",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Syno.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/10f141bd1b99e98b.wav"
   }
   {
     "id": "char_22",
     "name": "Странник",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Wanderer.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Wanderer_Hello.ogg.wav"
   }
 ]
