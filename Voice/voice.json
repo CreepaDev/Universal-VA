@@ -7,13 +7,13 @@
   },
   {
     "id": "char_02",
-    "name": "Эмбер DEV",
+    "name": "Эмбер",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Amber.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Amber.wav"
   },
   {
     "id": "char_03",
-    "name": "Арлекино DEV",
+    "name": "Арлекино",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Arlechino.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Arlechino.wav"
   },
