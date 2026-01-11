@@ -1,13 +1,6 @@
 {
   "voiceactors": [
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/1.jpg",
-      "link": "https://t.me/over_link",
-      "boosty": "https://boosty.to/overlink/donate",
-      "name": "OVERLINK",
-      "description": "Главный за техническую часть, разработал внутренние тулзы"
-    },
-    {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/2.jpg",
       "link": "https://t.me/sav4y4kas",
       "boosty": "https://boosty.to/savayaka/donate",
@@ -26,14 +19,14 @@
       "link": "https://t.me/Iuselinuxarchbtw",
       "boosty": "https://boosty.to/vadim_x_dima",
       "name": "Vadim",
-      "description": "Разработка логики лаунчера"
+      "description": "Разработка логики лаунчера,и дизайна сайта"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/23.png",
       "link": "https://t.me/KraneOnCraneTwink",
       "boosty": "https://boosty.to/vadim_x_dima",
       "name": "Дима",
-      "description": "Разработка дизайна, тестировщик лаунчера"
+      "description": "Разработка дизайна лаунчера, тестировщик лаунчера"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/4.jpg",
@@ -41,6 +34,13 @@
       "boosty": "https://t.me/freedubstudio",
       "name": "Denis Ocelot",
       "description": "Главный звукарь, озвучивал Невиллета"
+    },
+        {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/1.jpg",
+      "link": "https://t.me/over_link",
+      "boosty": "https://boosty.to/overlink/donate",
+      "name": "OVERLINK",
+      "description": "Главный за техническую часть, разработал внутренние тулзы"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/5.png",
