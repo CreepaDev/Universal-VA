@@ -3,126 +3,147 @@
     "id": "char_01",
     "name": "Альбедо DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Albedo.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Albedo.mp4"
   },
   {
     "id": "char_02",
     "name": "Эмбер",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Amber.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Amber.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Amber.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Amber.mp4"
   },
   {
     "id": "char_03",
     "name": "Арлекино",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Arlechino.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Arlechino.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Arlechino.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Arlechino.mp4"
   },
   {
     "id": "char_04",
     "name": "Беннет",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Bennet.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4f1d3ed15d911688.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4f1d3ed15d911688.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Bennet.mp4"
   },
   {
     "id": "char_05",
     "name": "Бэй Доу DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/BeyDou.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/BeyDou.mp4"
   },
   {
     "id": "char_06",
     "name": "Дилюк",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Diluc.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/2c2ac1b327807d64.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/2c2ac1b327807d64.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Diluc.mp4"
   },
   {
     "id": "char_07",
     "name": "Фишль",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Fishl.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/7c019b1581c5d280.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/7c019b1581c5d280.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Fishl.mp4"
   },
   {
     "id": "char_08",
     "name": "Флинс",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Flins.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Flins_Hello.ogg.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Flins_Hello.ogg.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Flins.mp4"
   },
   {
     "id": "char_09",
     "name": "Фурина",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Furina.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4c48eec259d39163.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/4c48eec259d39163.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Furina.mp4"
   },
   {
     "id": "char_10",
     "name": "Гань Юй DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/GanYui.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/GanYui.mp4"
   },
   {
     "id": "char_11",
     "name": "Аль Хайтам",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Haitan.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/3aaeb026581573f2.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/3aaeb026581573f2.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Haitan.mp4"
   },
   {
     "id": "char_12",
     "name": "Итэр DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Iter.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Iter.mp4"
   },
   {
     "id": "char_13",
     "name": "Кадзуха",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Kazuha.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/584ac3c90c1f30bc.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/584ac3c90c1f30bc.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Kazuha.mp4"
   },
   {
     "id": "char_14",
     "name": "Кли",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Klee.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/443fa847a89e99ec.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/443fa847a89e99ec.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Klee.mp4"
   },
   {
     "id": "char_15",
     "name": "Люмин DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Lumin.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Lumin.mp4"
   },
   {
     "id": "char_16",
     "name": "Мона",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Mona.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Mona_Hello%20(1).ogg.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Mona_Hello%20(1).ogg.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Mona.mp4"
   },
   {
     "id": "char_17",
     "name": "Нёвиллет",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Neuvillet.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/3080849c9a1ad58a.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/3080849c9a1ad58a.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Neuvillet.mp4"
   },
   {
     "id": "char_18",
     "name": "Райден",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Raiden.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Raiden_Shogun_Hello.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Raiden_Shogun_Hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Raiden.mp4"
   },
   {
     "id": "char_20",
     "name": "Сетос DEV",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Setos.jpg",
-    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3"
+    "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Setos.mp4"
   },
   {
     "id": "char_21",
     "name": "Сайно",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Syno.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/10f141bd1b99e98b.wav"
-  }
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/10f141bd1b99e98b.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Syno.mp4"
+  },
   {
     "id": "char_22",
     "name": "Странник",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Wanderer.jpg",
-    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Wanderer_Hello.ogg.wav"
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Wanderer_Hello.ogg.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Wanderer.mp4"
   }
 ]
