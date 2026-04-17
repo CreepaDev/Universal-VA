@@ -1,5 +1,9 @@
 [
 {
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/BABYDOLL.mp4",
+  "Loop": true
+},  
+{
   "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/InTheEnd.mp4",
   "Loop": true
 },
@@ -33,6 +37,26 @@
 },
 {
   "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/CloseToTheSun.mp4",
+  "Loop": true
+},
+{
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/WhyDoI.mp4",
+  "Loop": true
+},
+{
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/DayAfterDay.mp4",
+  "Loop": true
+},
+{
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/Monster.mp4",
+  "Loop": true
+},
+{
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/Fearless.mp4",
+  "Loop": true
+},
+{
+  "Url": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/video/illDoIt.mp4",
   "Loop": true
 },
 {
