@@ -8,7 +8,7 @@
   },
   {
     "id": "char_07",
-    "name": "Альбедо DEV",
+    "name": "Альбедо WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Albedo.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Albedo.mp4"
@@ -36,7 +36,7 @@
   },
   {
     "id": "char_05",
-    "name": "Бэй Доу DEV",
+    "name": "Бэй Доу WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/BeyDou.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/warrior_voice.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/BeyDou.mp4"
@@ -64,7 +64,7 @@
   },
   {
     "id": "char_10",
-    "name": "Гань Юй DEV",
+    "name": "Гань Юй WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/GanYui.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/mage_cast.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/GanYui.mp4"
@@ -78,7 +78,7 @@
   },
   {
     "id": "char_12",
-    "name": "Итэр DEV",
+    "name": "Итэр WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Iter.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Iter.mp4"
@@ -99,7 +99,7 @@
   },
   {
     "id": "char_15",
-    "name": "Люмин DEV",
+    "name": "Люмин WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Lumin.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/archer_shot.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Lumin.mp4"
@@ -127,7 +127,7 @@
   },
   {
     "id": "char_20",
-    "name": "Сетос DEV",
+    "name": "Сетос WIP",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Setos.jpg",
     "audio": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПОЗИТОРИЙ/main/sounds/hutao_hello.mp3",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Setos.mp4"
