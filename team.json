@@ -1,156 +1,212 @@
 {
   "voiceactors": [
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/2.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Sava.jpg",
       "link": "https://t.me/sav4y4kas",
       "boosty": "https://boosty.to/savayaka/donate",
       "name": "Savayaka",
       "description": "Создатель проекта, главный по рекламе, менеджменту и озвучке."
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/3.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Lumine.jpg",
       "link": "https://t.me/freedubstudio",
       "boosty": "https://boosty.to/shinoriactor/donate",
       "name": "Shinori",
-      "description": "Лидер Freedub Studio, звукорежиссер, озвучка Люмин и Фурины"
+      "description": "Лидер Freedub Studio, звукорежиссер, озвучка Люмин, Фурины и Далии(8:08...)"
     },
         {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/4.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Oratric_mechanic_denalis_kardenal.jpg",
       "link": "https://t.me/freedubstudio",
       "boosty": "https://t.me/freedubstudio",
       "name": "Denis Ocelot",
       "description": "Главный звукарь, озвучивал Невиллета"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/22.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Vadim.png",
       "link": "https://t.me/universesdev",
       "boosty": "https://boosty.to/nextlife_creepdev",
       "name": "Vadim",
       "description": "Разработка логики лаунчера,и дизайна сайта"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/23.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Dima.png",
       "link": "https://t.me/universesdev",
       "boosty": "https://boosty.to/nextlife_creepdev",
       "name": "Дима",
-      "description": "Разработка дизайна лаунчера, тестировщик лаунчера"
+      "description": "Разработка UX-дизайна лаунчера, тестировщик лаунчера"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/5.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Keya.jpg",
+      "link": "https://vk.ru/vilenko",
+      "boosty": "https://boosty.to/vilenko",
+      "name": "Dagor",
+      "description": "Актёр озвучки Кэйи"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Tignari.png",
+      "link": "https://t.me/FoxVol_Channel",
+      "boosty": "",
+      "name": "FoxVol",
+      "description": "Актёр озвучки Тигнари"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Illuga.jpg",
+      "link": "",
+      "boosty": "",
+      "name": "SantleX",
+      "description": "Актёр озвучки Иллуги"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/ZaVarka.jpg",
+      "link": "https://t.me/AnabiozRS",
+      "boosty": "",
+      "name": "Роман Солдатов",
+      "description": "Актёр озвучки Варки"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Syao.jpg",
+      "link": "https://t.me/markichxl",
+      "boosty": "",
+      "name": "Markichxl",
+      "description": "Актёр озвучки Сяо"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Itto.jpg",
+      "link": "https://t.me/Iuselinuxarchbtw",
+      "boosty": "",
+      "name": "floppa",
+      "description": "Актёр озвучки Итто"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Chasca.jpg",
+      "link": "https://t.me/ZhADyvl",
+      "boosty": "",
+      "name": "LOKI",
+      "description": "Актриса озвучки Часки"
+    },
+     {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Kirara.jpg",
+      "link": "https://t.me/SoCuteVoice",
+      "boosty": "",
+      "name": "SoCute",
+      "description": "Актриса озвучки Кирары"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Dehya.jpg",
+      "link": "https://t.me/Phyrsal",
+      "boosty": "",
+      "name": "Софья Фирсал",
+      "description": "Актриса озвучки Дэхьи"
+    },
+    {
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Raiden.jpg",
       "link": "https://t.me/YuriWinnight",
       "boosty": "https://boosty.to/yuriwinnight",
       "name": "Yuri Winnight",
-      "description": "Озвучка Сёгун Райдэн (Баал)"
+      "description": "Актриса озвучки Сёгун Райдэн (Баал)"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/6.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Kaveh.jpg",
       "link": "https://t.me/derdrok",
       "boosty": "https://boosty.to/derdrok2",
       "name": "Дрок",
-      "description": "Озвучка Альбедо"
+      "description": "Актёр озвучки Кавеха"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/7.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Sucrose.jpg",
       "link": "https://t.me/ginessj5",
       "boosty": "https://boosty.to/elizabeth228",
       "name": "Eliza",
-      "description": "Озвучка Фишль"
+      "description": "Актриса Озвучки Фишль"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/9.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Aether.jpg",
       "link": "https://t.me/boonyanya",
       "boosty": "https://boosty.to/boonyava",
       "name": "Boonya",
-      "description": "Озвучка Итер, Сетос"
+      "description": "Актёр озвучки Итер, Сетос"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/10.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Kazuha.jpg",
       "link": "https://t.me/Xopkevich",
       "boosty": "https://boosty.to/xopkevich",
       "name": "Xopkevich",
-      "description": "Озвучка Кадзуха, Аль Хайтам"
+      "description": "Актёр озвучки Кадзухи, Аль Хайтама и Лоэна"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/12.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Arlechino.jpg",
       "link": "https://t.me/logistosuss",
       "boosty": "https://boosty.to/logistosus",
       "name": "Екатерина Вдовик",
-      "description": "Озвучка Арлекино"
+      "description": "Актриса озвучки Арлекино"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/13.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Bennet.jpg",
       "link": "https://t.me/SovaSiadub",
       "boosty": "https://boosty.to/sovasia",
       "name": "SovaSia",
-      "description": "Озвучка Беннета"
+      "description": "Актриса озвучки Беннета"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/15.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Mona.jpg",
       "link": "https://t.me/lilisa_gu",
       "boosty": "https://boosty.to/lilisa",
       "name": "Lilisa",
-      "description": "Озвучка Моны"
+      "description": "Актриса озвучки Моны"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/16.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Sayno.jpg",
       "link": "https://t.me/SeidjiYno",
       "boosty": "https://boosty.to/shinoriactor/donate",
       "name": "Seidji",
-      "description": "Озвучка Сайно"
+      "description": "Актёр озвучки Сайно"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/17.jpg",
       "link": "https://t.me/enchaart",
       "boosty": "https://boosty.to/yumeyumiii",
       "name": "yumeyumiii",
-      "description": "Озвучка Гань Юй"
+      "description": "Актриса озвучки Гань Юй"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/19.jpg",
-      "link": "https://witchcvn.carrd.co",
-      "boosty": "https://boosty.to/witchcvn",
-      "name": "Rey",
-      "description": "Озвучка Бэй Доу"
-    },
-    {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/20.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Amber.jpg",
       "link": "https://t.me/libertina98",
       "boosty": "https://boosty.to/libertina98/donate",
       "name": "Libertina",
-      "description": "Озвучка Эмбер"
+      "description": "Актриса озвучки Эмбер"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/21.jpg",
       "link": "https://t.me/SakuramiMitsuka",
       "boosty": "https://boosty.to/savayaka/donate",
       "name": "Сакурами Мицука",
-      "description": "Озвучка Кли"
+      "description": "Актриса озвучки Кли"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/25.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Flins.jpg",
       "link": "https://t.me/kira_kiriru",
       "boosty": "https://boosty.to/kallash/donate",
       "name": "Кирилл Каллаш",
-      "description": "Озвучка Дилюка и Флинса"
+      "description": "Актёр озвучки Дилюка и Флинса"
     },
     {
       "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/26.jpg",
       "link": "https://t.me/DarnichDUB",
       "boosty": "https://boosty.to/darniqt",
       "name": "DARNI",
-      "description": "Озвучка Странника"
+      "description": "Актёр озвучки Странника"
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/27.jpg",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Simba.jpg",
       "link": "https://t.me/Iuselinuxarchbtw",
-      "boosty": "https://boosty.to/vadim_x_dima",
+      "boosty": "https://boosty.to/nextlife_creepdev",
       "name": "Симба",
       "description": "Моральная поддержка на протяжении всей разработки лаунчера."
     },
     {
-      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/24.png",
+      "avatar": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/HYPER%20COOL%20AVATARS%20EVER/Seryi.jpg",
       "link": "https://t.me/Miles_Tristitilae",
-      "boosty": "?",
+      "boosty": "",
       "name": "Серый",
       "description": "Поддержка проекта"
     }
