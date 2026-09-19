@@ -1,1 +1,6 @@
-
+{
+  "version": "0.2.0",
+  "file": "update/universeslaunch.exe",
+  "sha256": "хеш_в_нижнем_регистре",
+  "notes": "Что нового"
+}
