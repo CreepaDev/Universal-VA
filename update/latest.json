@@ -1,7 +1,7 @@
 {
-  "version": "0.7.1",
+  "version": "0.7.2",
   "file": "update/Universes.exe",
-  "sha256": "d6e46180af3d236da8570ec9fe4709ad418b5e6513267ce2cf1786ee5763d41f",
-  "notes": "ukraine fixed css new setiings + intro",
-  "sig": "3fd9631d89a3bf795724be6f743696e9bf9b395e9e877a05fb515370b07c3c12123a0e80c71442295b8c975947f5fb4aa5c958cf25a247dcec0c377d484f8a07"
+  "sha256": "fe0da3877aa26172ece3538e6612b7444dce5ba3812f476648df04f582f3bbdb",
+  "notes": "Все",
+  "sig": "f9ee7f3b25bac403d6cce553b5581e8a66281a4d422aa6438e411f60ad31584ae843c4dd538427b86c82e59453324658d224749b0712426c458c9577b8b5b404"
 }
