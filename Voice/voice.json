@@ -146,4 +146,39 @@
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/VO_Wanderer_Hello.ogg.wav",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/Videos/Wanderer.mp4"
   }
+  {
+    "id": "char_23",
+    "name": "Йоимия",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/yoimiya.jpg",
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_yoimiya_hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/yoimiya.mp4"
+  },
+   {
+    "id": "char_01",
+    "name": "Сахароза",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Sahar.jpg",
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_sucrose_hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Sucrose.mp4"
+  },
+   {
+    "id": "char_01",
+    "name": "Навия",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Navia.jpg",
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_navia_hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Navia.mp4"
+  },
+   {
+    "id": "char_01",
+    "name": "Нефер",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/nefer.jpg",
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_nefer_hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Nefer.mp4"
+  },
+   {
+    "id": "char_01",
+    "name": "Розария",
+    "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Rosaria.jpg",
+    "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_rosaria_hello.wav",
+    "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Rosaria.mp4"
+  },
 ]
