@@ -154,28 +154,28 @@
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/yoimiya.mp4"
   },
   {
-    "id": "char_01",
+    "id": "char_24",
     "name": "Сахароза",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Sahar.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_sucrose_hello.wav",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Sucrose.mp4"
   },
   {
-    "id": "char_01",
+    "id": "char_25",
     "name": "Навия",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Navia.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_navia_hello.wav",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Navia.mp4"
   },
   {
-    "id": "char_01",
+    "id": "char_26",
     "name": "Нефер",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/nefer.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_nefer_hello.wav",
     "video": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/video/Nefer.mp4"
   },
   {
-    "id": "char_01",
+    "id": "char_27",
     "name": "Розария",
     "photo": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/CharastersVl/Rosaria.jpg",
     "audio": "https://raw.githubusercontent.com/CreepaDev/Universal-VA/main/Voice/WAW/vo_rosaria_hello.wav",
