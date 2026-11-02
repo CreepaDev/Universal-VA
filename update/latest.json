@@ -1,7 +1,7 @@
 {
-  "version": "0.7.10",
+  "version": "0.7.11",
   "file": "update/universeslaunch.exe",
-  "sha256": "9e4cda99e0e6dfb8aa319a7ada1d4897cd47a7dddf605d7e1c9deba0530fb241",
-  "notes": "1",
-  "sig": "4f2f51621a5cbb1b0eab5950ccbea5c1ded5602c17b277db4b1a6a7fdf61b71387dbe786fede1b35550226d7e9fd7660f225368e90aa87940cc399102c7aa605"
+  "sha256": "0418dfe72073b960096ed9d837c3608857eebe55977b08ec5dd9eabf0ac78535",
+  "notes": "Фиксы",
+  "sig": "1eb1ce23db41a485b042f7d1311f3f4185046a88cb0969db71bffcc686679fae7776ba7ce5b6dc8452f7433bb20bb25106ad913193dc33ea45a9325d1a9a4901"
 }
