@@ -1,7 +1,7 @@
 {
-  "version": "0.7.9",
-  "file": "https://github.com/CreepaDev/Universal-VA/releases/download/v0.7.9/universeslaunch.exe",
-  "sha256": "90f05cde43e866686d7e096e189b8dee5f2b94512c6f72c2e3ada7c5ef039d67",
-  "notes": "отфиксил надеюсь",
-  "sig": "85f86dc46088bd345a54c6fdee3db09f0ff7fd0591ab666bfd864c77ed32be8cce8b29d25cb584a12429fd8f0ddea39bd0dbf670bc8a9e5803955d6c6af78102"
+  "version": "0.7.10",
+  "file": "https://github.com/CreepaDev/Universal-VA/releases/download/v0.7.10/universeslaunch.exe",
+  "sha256": "9e4cda99e0e6dfb8aa319a7ada1d4897cd47a7dddf605d7e1c9deba0530fb241",
+  "notes": "пиздец проебался",
+  "sig": "9f06d76663a2afc906d28b8d4d1e2981d16161b3fb1eabaa60151a0318582b35873abf4037ed8effdf7fb9cd9fe0a6c0c6e786e20ba297cab3eeeee7df13e400"
 }
