@@ -1,7 +1,7 @@
 {
   "version": "0.7.5",
-  "file": "https://github.com/CreepaDev/Universal-VA/releases/download/v0.7.5/Universes.exe",
+  "file": "https://github.com/CreepaDev/Universal-VA/releases/download/v0.7.5/universeslaunch.exe",
   "sha256": "31f1f57ee05410cb2406646c52ae739f6eae3de8992f441d766b0ee42bc848a8",
-  "notes": "fix ffmpeg samir zaebal  fix interpfeise",
-  "sig": "6d29c84d589ec0fd84293c06d284270dc212ff7cd77fec7804abb4d3f5a6ca40a5e6b852baf010c0522a58b0663f3385b98e03082ee86a671b5e351ddcf3a408"
+  "notes": "fix ffmpeg fix interpfeise",
+  "sig": "cf3c7817dfb2f8b73aa998c0719e40f27d76b857092a664a7e1d27399e1b4287d73fb053b67b8021d7101fee084f32df67c4cb2cacc8e929ee3072a219966301"
 }
